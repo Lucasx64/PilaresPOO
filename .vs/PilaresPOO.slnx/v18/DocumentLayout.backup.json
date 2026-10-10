@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\84289112587\\Desktop\\PilaresPOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E666B74-7032-8386-7C23-F24CBA5A3B9E}|PilaresPOO.csproj|c:\\users\\84289112587\\desktop\\pilarespoo\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E666B74-7032-8386-7C23-F24CBA5A3B9E}|PilaresPOO.csproj|solutionrelative:contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E666B74-7032-8386-7C23-F24CBA5A3B9E}|PilaresPOO.csproj|c:\\users\\84289112587\\desktop\\pilarespoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E666B74-7032-8386-7C23-F24CBA5A3B9E}|PilaresPOO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E666B74-7032-8386-7C23-F24CBA5A3B9E}|PilaresPOO.csproj|c:\\users\\84289112587\\desktop\\pilarespoo\\viagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E666B74-7032-8386-7C23-F24CBA5A3B9E}|PilaresPOO.csproj|solutionrelative:viagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E666B74-7032-8386-7C23-F24CBA5A3B9E}|PilaresPOO.csproj|c:\\users\\84289112587\\desktop\\pilarespoo\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E666B74-7032-8386-7C23-F24CBA5A3B9E}|PilaresPOO.csproj|solutionrelative:livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E666B74-7032-8386-7C23-F24CBA5A3B9E}|PilaresPOO.csproj|c:\\users\\84289112587\\desktop\\pilarespoo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E666B74-7032-8386-7C23-F24CBA5A3B9E}|PilaresPOO.csproj|solutionrelative:carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E666B74-7032-8386-7C23-F24CBA5A3B9E}|PilaresPOO.csproj|c:\\users\\84289112587\\desktop\\pilarespoo\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E666B74-7032-8386-7C23-F24CBA5A3B9E}|PilaresPOO.csproj|solutionrelative:contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "C:\\Users\\84289112587\\Desktop\\PilaresPOO\\Contato.cs",
+              "RelativeDocumentMoniker": "Contato.cs",
+              "ToolTip": "C:\\Users\\84289112587\\Desktop\\PilaresPOO\\Contato.cs",
+              "RelativeToolTip": "Contato.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBgAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T00:14:23.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\84289112587\\Desktop\\PilaresPOO\\Livro.cs",
+              "RelativeDocumentMoniker": "Livro.cs",
+              "ToolTip": "C:\\Users\\84289112587\\Desktop\\PilaresPOO\\Livro.cs",
+              "RelativeToolTip": "Livro.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T23:13:54.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Viagem.cs",
+              "DocumentMoniker": "C:\\Users\\84289112587\\Desktop\\PilaresPOO\\Viagem.cs",
+              "RelativeDocumentMoniker": "Viagem.cs",
+              "ToolTip": "C:\\Users\\84289112587\\Desktop\\PilaresPOO\\Viagem.cs",
+              "RelativeToolTip": "Viagem.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T23:24:46.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\84289112587\\Desktop\\PilaresPOO\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\84289112587\\Desktop\\PilaresPOO\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T00:31:57.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\84289112587\\Desktop\\PilaresPOO\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\84289112587\\Desktop\\PilaresPOO\\ContaBancaria.cs",
+              "RelativeToolTip": "ContaBancaria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T22:44:03.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\84289112587\\Desktop\\PilaresPOO\\Carro.cs",
+              "RelativeDocumentMoniker": "Carro.cs",
+              "ToolTip": "C:\\Users\\84289112587\\Desktop\\PilaresPOO\\Carro.cs",
+              "RelativeToolTip": "Carro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T00:35:32.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
