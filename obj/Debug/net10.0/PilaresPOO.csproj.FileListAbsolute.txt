@@ -13,3 +13,4 @@ C:\Users\84289112587\Desktop\PilaresPOO\obj\Debug\net10.0\PilaresPOO.pdb
 C:\Users\84289112587\Desktop\PilaresPOO\obj\Debug\net10.0\PilaresPOO.genruntimeconfig.cache
 C:\Users\84289112587\Desktop\PilaresPOO\obj\Debug\net10.0\ref\PilaresPOO.dll
 C:\Users\84289112587\Desktop\PilaresPOO\obj\Debug\net10.0\PilaresPOO.csproj.Up2Date
+C:\Users\84289112587\Desktop\PilaresPOO\obj\Debug\net10.0\PilaresPOO.sourcelink.json
