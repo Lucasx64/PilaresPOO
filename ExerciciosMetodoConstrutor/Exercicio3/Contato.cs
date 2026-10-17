@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace PilaresPOO
+namespace PilaresPOO.ExerciciosMetodoConstrutor.Exercicio3
 {
     internal class Contato
     {
